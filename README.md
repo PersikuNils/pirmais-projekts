@@ -1,1 +1,1 @@
-# pirmais-projekts
+# pirmais-projekts mans pirmais repozatorijs
